@@ -102,7 +102,6 @@ The system displays:
 
 Upon intrusion:
 
-* A screenshot is automatically saved.
 * Intrusion information is recorded inside `intrusion_log.txt`.
 
 Person counts are periodically recorded inside `person_log.txt`.
@@ -147,7 +146,6 @@ SentinelAI/
 ├── street_people.mp4
 ├── intrusion_log.txt
 ├── person_log.txt
-├── intrusion_YYYYMMDD_HHMMSS.jpg
 ├── requirements.txt
 └── README.md
 ```
@@ -169,6 +167,6 @@ Interests:
 * Autonomous Systems
 * AI for Defense Applications
 
-We can expect this as output : 
+Output image ( for reference ) : 
 <img width="1291" height="812" alt="image" src="https://github.com/user-attachments/assets/71aaaec4-a175-4070-80ab-5f331ee55472" />
 
